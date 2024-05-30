@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="svg">
+    <file>powerwatch_logo.svg</file>
+  </qresource>
+</RCC>
